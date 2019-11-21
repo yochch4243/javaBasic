@@ -94,6 +94,7 @@ e. long - 0 -> x -> 0L이 올바른 표현
 f. String - "" x -> String의 기본값은 null이다
 		 		
 		*/
+		//집에서 한 작업.
 	}
 
 }
